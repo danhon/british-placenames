@@ -21293,7 +21293,7 @@ Islington
 Islesteps
 West Yeo
 Isle Ristol
-Isles of Scilly 49.92N 06.29W SV917119
+Isles of Scilly
 Isleornsay (Eilean Iarmain)
 Isle of West Burrafirth
 Isle of Whithorn
